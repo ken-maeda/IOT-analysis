@@ -5,6 +5,7 @@ List the case of typical example of IOT data analysis. On those example, it foll
 - Component temperature
 
     1.Find diference
+    
   It identifies what makes data trend different. From which background, we could say it is "different". 
 
     2.Anomaly detection
