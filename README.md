@@ -1,14 +1,16 @@
 # IOT-analysis
 List the case of typical example of IOT data analysis. On those example, it follows anomality detection, changepoint detection, forecast.
 
-## Case List
-- Component temperature
+## Demo
+- Mechnical temperature
 
     1.Find diference
     
-  It identifies what makes data trend different. From which background, we could say it is "different". 
+  Infer the reason why makes anomal condition by serveral aspect and comparing fourier's law.
 
     2.Anomaly detection
+    
+  Detect anomaly data series in more early phase by exstacting feature and classification.
 
 ## Enviromental
 - Data collection: Beckhoff module[Link](https://www.beckhoff.com/english.asp?embedded_pc/cx2020.htm )
