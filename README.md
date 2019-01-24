@@ -4,11 +4,11 @@ List the case of typical example of IOT data analysis. On those example, it foll
 ## Demo
 - Mechnical temperature
 
-    1.Find diference
+    **1.Find diference**
     
   Infer the reason why makes anomal condition by serveral aspect and comparing fourier's law.
 
-    2.Anomaly detection
+    **2.Anomaly detection**
     
   Detect anomaly data series in more early phase by exstacting feature and classification.
 
